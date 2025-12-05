@@ -1,6 +1,6 @@
 # Frank Joel NZONANG TCHOUPOU-Portfolio
 
-**Welcome on my Portfolio**
+**Welcome to my Portfolio**
 
 **Cybersecurity and Digital Investigation Engineer** passionate about designing secure digital systems, solving technical challenges, and building resilient infrastructures.  
 I combine expertise in **network security, digital forensics, cloud security and Web Engineer** to create reliable and robust solutions for real-world problems.
